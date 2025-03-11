@@ -11,11 +11,10 @@
 - **`Cleaning.ipynb`** – Duomenų paruošimas ir išvalymas Python aplinkoje.
 
 ### Power BI ataskaitos
-- **`Ataskaita1.pdf`** – Power BI ataskaita su **Palečių** rodikliais.
-- **`Ataskaita2.pdf`** – Power BI ataskaita su **Pakuočių** rodikliais.
-- **`Ataskaita3.pdf`** – Power BI ataskaita su **Užduočių** rodikliais.
+- **`Ataskaita1.pdf`** – Power BI ataskaitos PDF eksportas.
+- **`Ataskaita2.pdf`** – PPower BI ataskaitos PDF eksportas.
+- **`Ataskaita3.pdf`** – Power BI ataskaitos PDF eksportas.
 - **`Prezentacija.pbix`** – Power BI projektas su interaktyviomis vizualizacijomis.
-- **`Prezentacija.pdf`** – Power BI ataskaitos PDF eksportas.
 
 ### SQL ir Python analizės
 - **`Python_Sql_Report.pdf`** – SQL ir Python užklausų aprašymai bei rezultatai.
@@ -40,6 +39,6 @@
 
 ## Kaip naudoti
 1. Atsisiųsti `Prezentacija.pbix` ir atsidaryti **Power BI Desktop**.
-2. Norint peržiūrėti SQL užklausas, naudoti `Queries.sql` su duomenų baze.
+2. Norint peržiūrėti SQL užklausas, naudoti `Queries.sql` su duomenų baze arba atidarykite su Notepad.
 3. Python analizės failus (`.ipynb`) galima paleisti **Jupyter Notebook** arba **Google Colab**.
 4. Galutinės įžvalgos pateiktos `Įžvalgos.pdf`.
